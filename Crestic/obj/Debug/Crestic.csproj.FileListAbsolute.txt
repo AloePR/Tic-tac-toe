@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\Crestic\Crestic\bin\Debug\Crestic.exe.config
+C:\Users\HP\source\repos\Crestic\Crestic\bin\Debug\Crestic.exe
+C:\Users\HP\source\repos\Crestic\Crestic\bin\Debug\Crestic.pdb
+C:\Users\HP\source\repos\Crestic\Crestic\obj\Debug\Crestic.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Crestic\Crestic\obj\Debug\Crestic.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Crestic\Crestic\obj\Debug\MainWindow.g.cs
+C:\Users\HP\source\repos\Crestic\Crestic\obj\Debug\App.g.cs
+C:\Users\HP\source\repos\Crestic\Crestic\obj\Debug\Crestic_MarkupCompile.cache
+C:\Users\HP\source\repos\Crestic\Crestic\obj\Debug\Crestic_MarkupCompile.lref
+C:\Users\HP\source\repos\Crestic\Crestic\obj\Debug\MainWindow.baml
+C:\Users\HP\source\repos\Crestic\Crestic\obj\Debug\Crestic.g.resources
+C:\Users\HP\source\repos\Crestic\Crestic\obj\Debug\Crestic.Properties.Resources.resources
+C:\Users\HP\source\repos\Crestic\Crestic\obj\Debug\Crestic.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Crestic\Crestic\obj\Debug\Crestic.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Crestic\Crestic\obj\Debug\Crestic.exe
+C:\Users\HP\source\repos\Crestic\Crestic\obj\Debug\Crestic.pdb
